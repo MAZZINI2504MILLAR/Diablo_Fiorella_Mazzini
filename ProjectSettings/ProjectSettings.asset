@@ -846,12 +846,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 2164a4a6-b24f-492f-a370-fcd8d8dd5df9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Dungeon Castle Environment
+  projectName: Diablo_Fiorella_Mazzini
   organizationId: unity_144bdbdad61d64c4e824
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
